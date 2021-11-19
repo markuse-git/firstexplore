@@ -4,3 +4,4 @@ import pandas as pd
 # das ist eine neue zeile
 
 # was nicht alles in das stash geht ...!
+# sollte ein konflikt sein
